@@ -1,5 +1,5 @@
 {% set name = "napari-time-slicer" %}
-{% set version = "0.4.8" %}
+{% set version = "0.4.9" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-time-slicer-{{ version }}.tar.gz
-  sha256: e6d31e756d08e754fb346846fa39d9003b18d571fd2818b382714e290ab5f613
+  sha256: 329f7b04952d56aeb9c446fc1d034850d417367e3eaa0d1dd74fa596b5e73fd7
 
 build:
   noarch: python
