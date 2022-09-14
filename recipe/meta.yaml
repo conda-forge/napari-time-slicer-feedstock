@@ -12,7 +12,7 @@ source:
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
-  number: 0
+  number: 1
 
 requirements:
   host:
@@ -23,7 +23,6 @@ requirements:
     - napari-tools-menu
     - napari-workflows
     - numpy
-    - pyqt
     - python >=3.7
     - toolz
 
