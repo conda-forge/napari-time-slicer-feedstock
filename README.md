@@ -1,11 +1,11 @@
-About napari-time-slicer
-========================
+About napari-time-slicer-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-time-slicer-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/haesleinhuepf/napari-time-slicer
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-time-slicer-feedstock/blob/main/LICENSE.txt)
 
 Summary: A meta plugin for processing timelapse data in napari timepoint by timepoint
 
